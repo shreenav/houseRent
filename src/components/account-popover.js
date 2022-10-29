@@ -36,7 +36,7 @@ export const AccountPopover = (props) => {
           color="text.secondary"
           variant="body2"
         >
-          Kaur Khandelwal    {/* Never try to change the Name. Nhi to pel diye jaaoge */}
+         Shreenav Khandelwal
         </Typography>
       </Box>
       <MenuList

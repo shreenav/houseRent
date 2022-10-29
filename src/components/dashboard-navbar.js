@@ -83,7 +83,7 @@ export const DashboardNavbar = (props) => {
               width: 40,
               ml: 1
             }}
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36oTJQB8M2md6ThkXLZJwMbDbB8RF59q-Mg&usqp=CAU"
+            src="https://gravatar.com/avatar/8e0bc277d150bf0acabf102640d58844?s=400&d=robohash&r=x"
           >
             <UserCircleIcon fontSize="small" />
           </Avatar>
