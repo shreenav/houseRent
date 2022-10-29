@@ -58,7 +58,7 @@ export const DashboardNavbar = (props) => {
             </IconButton>
           </Tooltip> */}
          <Typography variant = "h5" sx = {{color: 'blue'}}>
-            Search Properties to {state.Rent ? 'Rent' : state.Buy ? 'Buy' : 'Sell'}
+            Search Properties
           </Typography>
 
           <Box sx={{ flexGrow: 1 }} />
